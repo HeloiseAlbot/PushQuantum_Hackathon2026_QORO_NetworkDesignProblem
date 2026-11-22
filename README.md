@@ -1,7 +1,7 @@
 # PushQuantum_Hackathon2026_QORO_NetworkDesignProblem
 Solution001: Solution of our team: Team SU(2)
 
-Solution002: Solution of my own
+Solution002: Solution of my own, tested after the challenges closed.
 
 # Hybrid Quantum Network Design Optimization
 
